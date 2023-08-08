@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "ff1893767318c787",
+    "type": "split",
+    "children": [
+      {
+        "id": "a522c95f549d9be5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734f9432b6f107d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Classification.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9a4b8c8ddcc3d8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "941c70aa27730958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Training Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e020f4bb6d33de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Deep Neural Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44a5f8f68b19ad8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Training Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ccc039568378fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Generative Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fce46b71f5c39458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Generative Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5efc5b94192013d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Supervised Learning.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "75ec044ebacbade6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ce9d009d8a1fb48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Introduction/Ethics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51f0b2cb2d3c2691",
+    "type": "split",
+    "children": [
+      {
+        "id": "398e2b3546400f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f288a3e75b3fae38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6dbc105af4c373ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2dd5008a0aeba2a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64575ea264638036",
+    "type": "split",
+    "children": [
+      {
+        "id": "c170d6c185838fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74058bd7b55c3428",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Introduction/Ethics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43d8a23ae91a912f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Introduction/Ethics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "459a1af60aa9fee7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb52383c865489c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Introduction/Ethics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ce9d009d8a1fb48",
+  "lastOpenFiles": [
+    "1 - Introduction/Artificial Intelligence.md",
+    "1 - Introduction/Ethics.md",
+    "1 - Introduction/Temporal Credit Assignment Problem.md",
+    "1 - Introduction/Supervised Learning.md",
+    "1 - Introduction/Reinforcement Learning.md",
+    "1 - Introduction/Action.md",
+    "1 - Introduction/Unsupervised Learning.md",
+    "1 - Introduction/Latent Variables.md",
+    "1 - Introduction/Machine Learning.md",
+    "1 - Introduction/Dimension.md",
+    "1 - Introduction/Generative Models.md",
+    "1 - Introduction/Conditional Generation.md",
+    "1 - Introduction/Training Data.md",
+    "1 - Introduction/Output.md",
+    "1 - Introduction/Deep Neural Network.md",
+    "1 - Introduction/Deep Learning.md",
+    "1 - Introduction/Input.md",
+    "1 - Introduction/Training.md",
+    "1 - Introduction/Classification.md",
+    "1 - Introduction/Regression.md",
+    "1 - Introduction/Natural Language Processing.md",
+    "1 - Introduction"
+  ]
+}
