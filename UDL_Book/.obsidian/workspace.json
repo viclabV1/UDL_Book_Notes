@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "30d67c4cb494254a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supervised Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c9f95fdd1ce493d6",
             "type": "leaf",
             "state": {
@@ -51,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Supervised Learning/Chapter 2 Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Supervised Learning/Chapter 2 Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 - Supervised Learning/Chapter 2 Topics.md"
+              }
             }
           }
         ]
@@ -175,11 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9f95fdd1ce493d6",
+  "active": "75ec044ebacbade6",
   "lastOpenFiles": [
     "Supervised Learning.md",
-    "Tabular Data.md",
     "2 - Supervised Learning/Chapter 2 Topics.md",
+    "Tabular Data.md",
     "Untitled.canvas",
     "Training.md",
     "Parameter.md",

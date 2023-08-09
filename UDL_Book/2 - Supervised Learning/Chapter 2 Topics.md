@@ -3,3 +3,7 @@
 [[Inference]]
 [[Parameter]]
 [[Training]]
+[[Training Data]]
+[[Loss]]
+[[Generalization]]
+[[Vector]]

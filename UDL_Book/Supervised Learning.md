@@ -27,4 +27,4 @@ $$
 $$
 \hat{\phi}=\underset{\phi}{argmin}[L[\phi]]
 $$
-After [[Training]], good idea to [[Test]] the [[Performance]] of the [[Model]] on [[Test Data]] to see how well it [[Generalize]]s on data not in the [[Training Data]].
+After [[Training]], good idea to [[Test]] the [[Performance]] of the [[Model]] on [[Test Data]] to see how well it generalizes([[Generalization]]) on data not in the [[Training Data]].
