@@ -1,6 +1,6 @@
 ### (DNN)
 
-[[Machine Learning]] [[model]]
+Type of [[Machine Learning]] [[Model]]
 
 Equations that can represent huge variety of relationships between [[Input]] and [[Output]].
 
@@ -10,4 +10,3 @@ Many applications, including
 	- [[Natural Language Processing]]
 	- [[Computer Vision]]
 	- [[Speech Recognition]]
-	- 

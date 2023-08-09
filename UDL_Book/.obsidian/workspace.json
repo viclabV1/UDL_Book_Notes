@@ -8,127 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "734f9432b6f107d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Introduction/Classification.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a4b8c8ddcc3d8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Introduction/Input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "941c70aa27730958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Introduction/Training Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e020f4bb6d33de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Introduction/Deep Neural Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44a5f8f68b19ad8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Introduction/Training Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ccc039568378fa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Introduction/Generative Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fce46b71f5c39458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Introduction/Generative Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5efc5b94192013d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Introduction/Supervised Learning.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "75ec044ebacbade6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Introduction/Artificial Intelligence.md",
+                "file": "2 - Supervised Learning/Chapter 2 Topics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9ce9d009d8a1fb48",
+            "id": "c9f95fdd1ce493d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "538a7d919815ab11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Introduction/Ethics.md",
+                "file": "Tabular Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8de7f36c1fd2b51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Introduction/Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Introduction/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Introduction/Ethics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -255,29 +175,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ce9d009d8a1fb48",
+  "active": "c9f95fdd1ce493d6",
   "lastOpenFiles": [
-    "1 - Introduction/Artificial Intelligence.md",
-    "1 - Introduction/Ethics.md",
-    "1 - Introduction/Temporal Credit Assignment Problem.md",
-    "1 - Introduction/Supervised Learning.md",
-    "1 - Introduction/Reinforcement Learning.md",
-    "1 - Introduction/Action.md",
-    "1 - Introduction/Unsupervised Learning.md",
-    "1 - Introduction/Latent Variables.md",
-    "1 - Introduction/Machine Learning.md",
-    "1 - Introduction/Dimension.md",
-    "1 - Introduction/Generative Models.md",
-    "1 - Introduction/Conditional Generation.md",
-    "1 - Introduction/Training Data.md",
-    "1 - Introduction/Output.md",
-    "1 - Introduction/Deep Neural Network.md",
-    "1 - Introduction/Deep Learning.md",
-    "1 - Introduction/Input.md",
-    "1 - Introduction/Training.md",
-    "1 - Introduction/Classification.md",
-    "1 - Introduction/Regression.md",
-    "1 - Introduction/Natural Language Processing.md",
+    "Supervised Learning.md",
+    "Tabular Data.md",
+    "2 - Supervised Learning/Chapter 2 Topics.md",
+    "Untitled.canvas",
+    "Training.md",
+    "Parameter.md",
+    "Generative Models.md",
+    "Training Data.md",
+    "Deep Neural Network.md",
+    "Model.md",
+    "1 - Introduction/Chapter 1 Topics.md",
+    "Fairness.md",
+    "Multivariate Regression.md",
+    "Exploitation.md",
+    "Exploration.md",
+    "Power Concentration.md",
+    "Speech Recognition.md",
+    "Existential Risk.md",
+    "Weaponization.md",
+    "Prediction.md",
+    "Explainability.md",
+    "Bias.md",
+    "Reward.md",
+    "Policy Network.md",
+    "Agent.md",
+    "Data.md",
+    "2 - Supervised Learning",
     "1 - Introduction"
   ]
 }
