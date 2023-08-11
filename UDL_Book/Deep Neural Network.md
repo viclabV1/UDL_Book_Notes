@@ -1,5 +1,6 @@
 ### (DNN)
 
+#### Summary
 Type of [[Machine Learning]] [[Model]]
 
 Equations that can represent huge variety of relationships between [[Input]] and [[Output]].

@@ -1,3 +1,4 @@
+#### Summary
 [[Artificial Intelligence]] will likely be one of the most impactful inventions ever. This can be good and bad. Some ethical considerations need to be taken, such as: 
 
 [[Bias]] and [[Fairness]]: The [[Training Data]] that [[Deep Learning]] models are often trained on is most often subjective and biased, which the model will express in it's [[Output]].

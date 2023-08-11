@@ -1,1 +1,2 @@
+#### Summary
 Highly structured outputs (such as generated images) are hard to tackle using standard [[Machine Learning]] paradigm. This is because the output can be ambiguous, and the output may have structure that needs to be followed, such as in [[Natural Language Processing]] tasks where grammar needs to be respected. 

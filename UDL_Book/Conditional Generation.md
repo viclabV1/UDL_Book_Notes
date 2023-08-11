@@ -1,3 +1,4 @@
+#### Summary
 [[Generative Models]] that generate [[Output]] where part of the output is already defined. 
 
 In [[Natural Language Processing]], this might look like autocomplete. 

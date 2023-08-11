@@ -1,3 +1,4 @@
+#### Summary
 Teach an [[Agent]] to choose the [[Action]] given a [[State]] that leads to the highest [[Reward]].
 
 Tradeoff between [[Exploration]] and [[Exploitation]].

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Supervised Learning/Chapter 2 Topics.md",
+                "file": "Action.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Supervised Learning/Chapter 2 Topics.md",
+                "file": "Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Supervised Learning/Chapter 2 Topics.md",
+                "file": "Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Supervised Learning/Chapter 2 Topics.md"
+                "file": "Action.md"
               }
             }
           }
@@ -193,31 +193,32 @@
   "active": "75ec044ebacbade6",
   "lastOpenFiles": [
     "Supervised Learning.md",
-    "2 - Supervised Learning/Chapter 2 Topics.md",
-    "Tabular Data.md",
+    "Unsupervised Learning.md",
+    "Training Data.md",
+    "Weaponization.md",
+    "Regression.md",
+    "Policy Network.md",
     "Untitled.canvas",
     "Training.md",
-    "Parameter.md",
-    "Generative Models.md",
-    "Training Data.md",
-    "Deep Neural Network.md",
-    "Model.md",
-    "1 - Introduction/Chapter 1 Topics.md",
-    "Fairness.md",
-    "Multivariate Regression.md",
-    "Exploitation.md",
-    "Exploration.md",
-    "Power Concentration.md",
+    "Temporal Credit Assignment Problem.md",
+    "Tabular Data.md",
+    "State.md",
     "Speech Recognition.md",
-    "Existential Risk.md",
-    "Weaponization.md",
-    "Prediction.md",
-    "Explainability.md",
-    "Bias.md",
     "Reward.md",
-    "Policy Network.md",
-    "Agent.md",
-    "Data.md",
+    "Reinforcement Learning.md",
+    "Prediction.md",
+    "Power Concentration.md",
+    "Parameter.md",
+    "Output.md",
+    "Nondeterministic.md",
+    "Natural Language Processing.md",
+    "Multivariate Regression.md",
+    "Model.md",
+    "Machine Learning.md",
+    "Latent Variables.md",
+    "Label.md",
+    "Input.md",
+    "Generative Models.md",
     "2 - Supervised Learning",
     "1 - Introduction"
   ]
